@@ -7,7 +7,7 @@ The tool reads KPIs from a simple text file, generates SQL queries automatically
 - **Email body** — concise executive summary with key insights
 - **Email attachment** — full detailed `.docx` report
 
-![Email Preview](examples/screenshot_email.png)
+[📧 View Email Screenshot](examples/Screenshot_email.pdf)
 ---
 
 ## The Problem It Solves
