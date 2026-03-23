@@ -1,0 +1,5 @@
+Total revenue across all transactions
+Revenue and profit breakdown by product category
+Best performing age group by total spending
+Sales distribution by gender
+Top 3 months by revenue
