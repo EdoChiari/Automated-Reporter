@@ -8,7 +8,6 @@ The tool reads KPIs from a simple text file, generates SQL queries automatically
 - **Email attachment** — full detailed `.docx` report
 
 ![Email Preview](examples/screenshot_email.png)
-
 ---
 
 ## The Problem It Solves
